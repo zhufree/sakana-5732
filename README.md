@@ -1,10 +1,10 @@
 <a href="https://lab.magiconch.com/sakana/?v=takina" target="_blank">
-  <img src="html/takina.png" height="160px">
+  <img src="html/mbcc-serious.png" height="160px">
 </a><a href="https://lab.magiconch.com/sakana/?v=chisato" target="_blank">
-  <img src="html/chisato.png" height="160px">
+  <img src="html/naqia-cry.png" height="160px">
 </a>
 
-# 🐟「Sakana!」石蒜模拟器
+# 🐟「Sakana!」石蒜模拟器-5732改
 
 [![NPM](https://img.shields.io/npm/v/sakana)](https://www.npmjs.com/package/sakana)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
